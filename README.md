@@ -1,1 +1,1 @@
-# machine-learning-for-IT-engineer
+# machine-learning-for-software-engineer
